@@ -1,6 +1,8 @@
 # Ignore les fichiers CSV
 emails_extraits.csv
 url.csv 
+emails_propres.csv
+
 # Ignore les fichiers de configuration
 .env
 
