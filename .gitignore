@@ -1,0 +1,9 @@
+# Ignore les fichiers CSV
+emails_extraits.csv
+url.csv 
+# Ignore les fichiers de configuration
+.env
+
+# Ignore les fichiers devenv
+venv/   
+

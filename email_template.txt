@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Proposition de services de création de site internet</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+    <div style="max-width: 600px; margin: 0 auto; padding: 20px;">
+        <p>Bonjour,</p>
+        
+        <p>J'ai récemment visité votre site <strong>{{url}}</strong> et je souhaite vous proposer mes services de création et d'optimisation de site internet.</p>
+        
+        <p>En tant que spécialiste du développement web, je propose des solutions sur mesure pour :</p>
+        
+        <ul>
+            <li>Moderniser l'apparence de votre site</li>
+            <li>Améliorer sa vitesse de chargement</li>
+            <li>Optimiser son référencement (SEO)</li>
+            <li>Le rendre parfaitement adapté aux mobiles</li>
+            <li>Ajouter de nouvelles fonctionnalités</li>
+        </ul>
+        
+        <p>Si vous êtes intéressé(e) par une refonte ou une amélioration de votre présence en ligne, je serais ravi d'échanger avec vous pour discuter de vos besoins spécifiques.</p>
+        
+        <p>N'hésitez pas à me contacter par retour de mail ou par téléphone pour convenir d'un rendez-vous sans engagement.</p>
+        
+        <p>Cordialement,<br>
+        [Votre Nom]<br>
+        [Votre Téléphone]<br>
+        [Votre Site Web]</p>
+        
+        <p style="font-size: 12px; color: #999; margin-top: 30px; border-top: 1px solid #eee; padding-top: 10px;">
+            Si vous ne souhaitez pas recevoir d'autres communications de ma part, merci de me le faire savoir par simple réponse à cet email.
+        </p>
+    </div>
+</body>
+</html>
